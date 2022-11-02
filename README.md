@@ -12,4 +12,4 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
-contractAddress: 0xB67B3C8be7cAeC5705643b55a2f679990310AaC6
+contractAddress: 0xB67B3C8be7cAeC5705643b55a2f679990310AaC6 on goerli testnet
